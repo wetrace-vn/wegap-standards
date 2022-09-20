@@ -1,2 +1,2 @@
-# wegap-standards
-Nơi định nghĩa các tiêu chuẩn từ W0 -> W5 chuẩn tiêu chuẩn WeGap. Mọi người có thể đóng góp xây dựng tiêu chuẩn bằng PR.
+# WeGaP Standards
+Tiêu chuẩn sẽ được xây dựng, quản lý và phát triển bởi cộng động, do cộng đồng. Mọi PR được duyệt sẽ được đưa vào Wiki và chính thức trở thành tiêu chuẩn mà mọi thành viên của WeTrace phải tuân theo.
